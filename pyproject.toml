@@ -11,7 +11,7 @@ license = {text = "MIT"}
 authors = [
     {name = "Emil Melnikov", email = "emilmelnikov@gmail.com"},
 ]
-classifiers = ["Development Status :: 2 - Pre-Alpha", "Framework :: napari"]
+classifiers = ["Development Status :: 2 - Pre-Alpha"]
 dependencies = [
     "magicgui",
     "napari[all]",
